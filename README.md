@@ -3,7 +3,7 @@
     An intelligent CPU scheduling system that uses Machine Learning (Imitation Learning) to learn and replicate optimal scheduling strategies in a simulated operating     system environment.
 
     This project bridges Operating Systems fundamentals with AI-driven decision making, demonstrating how learning-based approaches can be applied to classical OS problems.
-
+ 
 
 🚀 Project Overview
 
